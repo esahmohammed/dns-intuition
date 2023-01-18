@@ -29,12 +29,12 @@ We will initially examine the server's DNS A-Records. Hostname to IP address map
 <br />
 
 <p>
-<img src="https://i.imgur.com/dBsKfOx.png" height="50%" width="50%" alt="Creating an A record"/>
+<img src="https://i.imgur.com/dBsKfOx.png" height="80%" width="80%" alt="Creating an A record"/>
 </p>
 <p>
-<img src="https://i.imgur.com/z8PI6xq.png" height="50%" width="50%" alt="Mainframe IP Address"/>
+<img src="https://i.imgur.com/z8PI6xq.png" height="80%" width="80%" alt="Mainframe IP Address"/>
 </p>
-<img src="https://i.imgur.com/HDMDNVl.png" height="50%" width="50%" alt="Ping mainframe"/>
+<img src="https://i.imgur.com/HDMDNVl.png" height="80%" width="80%" alt="Ping mainframe"/>
 <p>
 
 <p>
@@ -42,9 +42,9 @@ As soon as we switch the record address of "mainframe" to 8.8.8.8, the client ma
 </p>
 
 <p>
-<img src="https://i.imgur.com/tIgsNxy.png" height="50%" width="50%" alt="Changing mainframe IP Address"/>
+<img src="https://i.imgur.com/tIgsNxy.png" height="80%" width="80%" alt="Changing mainframe IP Address"/>
 </p>
-<img src="https://i.imgur.com/H7oEZY8.png" height="50%" width="50%" alt="Ping mainframe again"/>
+<img src="https://i.imgur.com/H7oEZY8.png" height="80%" width="80%" alt="Ping mainframe again"/>
 <p>
 
 <p>
@@ -52,11 +52,11 @@ Last but not least, we'll set up a CNAME record to direct the host "search" to "
 </p>
 
 <p>
-<img src="https://i.imgur.com/fDJl47K.png" height="50%" width="50%" alt="Creating a CNAME"/>
+<img src="https://i.imgur.com/fDJl47K.png" height="80%" width="80%" alt="Creating a CNAME"/>
 </p>
 <p>
-<img src="https://i.imgur.com/KEdUGck.png" height="50%" width="50%" alt="search CNAME record"/>
+<img src="https://i.imgur.com/KEdUGck.png" height="80%" width="80%" alt="search CNAME record"/>
 </p>
 <p>
-<img src="https://i.imgur.com/oQe0ZI0.png" height="50%" width="50%" alt="Ping search"/>
+<img src="https://i.imgur.com/oQe0ZI0.png" height="80%" width="80%" alt="Ping search"/>
 </p>
