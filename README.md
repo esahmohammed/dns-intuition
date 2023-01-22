@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/CtGfsq8.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/yp1oovk.png" alt="DNS logo"/>
 </p>
 
 <h1>Building Intuition for DNS</h1>
